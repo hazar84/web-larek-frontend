@@ -96,7 +96,7 @@ npm run start
 yarn start
 ```
 
-## 4. Сборка проекта
+### 4. Сборка проекта
 
 ```
 npm run build
